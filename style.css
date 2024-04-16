@@ -27,6 +27,11 @@ section {
     padding-top: 80px;
 }
 
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+}
+
 main {
     display: flex;
     align-items: center;
@@ -132,5 +137,4 @@ text-decoration: none;
     bottom: 50px;
     right: 50px;
 }
-
 
